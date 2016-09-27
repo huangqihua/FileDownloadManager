@@ -4,6 +4,6 @@
 
 演示截图如下：
    默认图片
-   ![image text](https://github.com/wangdongmeng/FileDownloadManager/app/imagedemo/default_image.png)
+   ![image](https://github.com/wangdongmeng/FileDownloadManager/blob/master/app/imagedemo/default_image.png)
    下载的网络图片
-   ![image text](https://github.com/wangdongmeng/FileDownloadManager/app/imagedemo/download_image.png)
+   ![image](https://https://github.com/wangdongmeng/FileDownloadManager/blob/master/app/imagedemo/download_image.png)

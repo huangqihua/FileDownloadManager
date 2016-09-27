@@ -5,5 +5,6 @@
 演示截图如下：
    默认图片
    ![image](https://github.com/wangdongmeng/FileDownloadManager/blob/master/app/imagedemo/default_image.png)
+   
    下载的网络图片
-   ![image](https://https://github.com/wangdongmeng/FileDownloadManager/blob/master/app/imagedemo/download_image.png)
+   ![image](https://github.com/wangdongmeng/FileDownloadManager/blob/master/app/imagedemo/download_image.png)
